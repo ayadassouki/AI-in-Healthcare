@@ -1,0 +1,105 @@
+,,Type of,,,,Age,
+,,Diabetes (1,Allergy/Alterc,,,restrictio,Diet
+Medication name,,or 2),ations,Altercation Medication/Condition,Pregnant,n,restriction
+,,,,"Aspirin,Insulin (hypoglycemia risk),",,,
+Metformin (and combinations),,2,1,"Repaglinide,Prednisone,SSRIs",0,1,1
+Glulisine (Apidra),,1,1,"Beta blockers, Thiazolidinediones",0,0,0
+Lispro (Humalog),,1,1,"Beta blockers, Thiazolidinediones",0,0,0
+Aspart (NovoLog),,1,1,"Beta blockers, Thiazide diuretics",0,0,0
+Glargine (Lantus),,1,1,"Beta blockers, Thiazide diuretics",0,0,0
+Detemir (Levemir),,1,1,"Beta blockers, Thiazide diuretics",0,0,0
+Glipizide (Glucotrol),,2,1,"Beta blockers, NSAIDs",1,1,0
+Pioglitazone,,2,1,"Insulin, Gemfibrozil",1,1,0
+Sitagliptin (Januvia),,2,1,"Insulin secretagogues, Rifampin",1,1,0
+Empagliflozin (Jardiance),,2,1,"Diuretics, Insulin",1,1,0
+Acarbose (Precose),,2,1,"Metformin, Sulfonylureas",0,0,0
+Repaglinide (Prandin),,2,1,"Gemfibrozil, Beta blockers",0,0,0
+Insulin medications:,,,,,,,
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Humulin R U-100,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Novolin R FlexPen,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Novolin R ReliOn,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+,,,,"corticosteroids, beta-blockerssulfonylureas,",,,
+,,,,"meglitinides, thiazolidinediones,corticosteroids,",,,
+Novolin R FlexPen ReliOn,,1,,beta-blockers,0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Afrezza,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Fiasp,(many variations),1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Apidra,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Admelog,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Lyumjev,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Levemir,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Basaglar KwikPen,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Lantus,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides,",,,
+,,,,"thiazolidinediones,corticosteroids, beta-",,,
+Lantus SoloStar,,1,,blockers,0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Toujeo SoloStar,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Toujeo Max SoloStar,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Semglee-yfgn,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Humulin R U-500,,1,,"corticosteroids, beta-blockers",0,0,0
+,,,,"sulfonylureas, meglitinides, thiazolidinediones,",,,
+Humulin R U-500 KwikPen,,1,,"corticosteroids, beta-blockers",0,0,0
+Pramlintide,,1,0,,0,0,0
+,,,,Risk of hypoglycemia may be greater if you,,,
+,,,,take them with other types of diabetes,,,
+Acarbose,,2,1,medications,0,0,0
+,,,,Risk of hypoglycemia may be greater if you,,,
+,,,,take them with other types of diabetes,,,
+miglitol (Glyset),,2,1,medications,0,0,0
+Bromocriptine,,2,1,,0,0,0
+,,,,"Alcohol, Insulin, Sulfonylureas like",,,
+alogliptin (Nesina),,2,1,"glimepiride, glipizide, glyburide",0,0,0
+alogliptin-metformin (Kazano),,2,0,,0,0,0
+linagliptin (Tradjenta),,2,0,,0,0,0
+linagliptin-empagliflozin,,,,,,,
+(Glyxambi),,2,0,,0,0,0
+linagliptin-metformin,,,,,,,
+"(Jentadueto, Jentadueto XR)",,2,0,,0,0,0
+saxagliptin (Onglyza),,2,0,,0,0,0
+saxagliptin-metformin,,,,,,,
+(Kombiglyze XR),,2,0,,0,0,0
+sitagliptin (Januvia),,2,0,,0,0,0
+sitagliptin-metformin (Janumet,,,,,,,
+and Janumet XR),,2,0,,0,0,0
+sitagliptin and simvastatin,,,,,,,
+(Juvisync),,2,0,,0,0,0
+dulaglutide (Trulicity),,2,0,,0,0,0
+exenatide (Byetta),,2,0,,0,0,0
+exenatide extended-release,,,,,,,
+(Bydureon BCise),,2,0,,0,0,0
+"liraglutide (Saxenda, Victoza)",,2,0,,0,0,0
+lixisenatide (Adylyxin),,2,0,,0,0,0
+semaglutide (Ozempic),,2,0,,0,0,0
+tirzepatide (Mounjaro),,2,0,,0,0,0
+nateglinide (Starlix),,2,0,,0,0,0
+repaglinide (Prandin),,2,0,,0,0,0
+canagliflozin (many variations),,2,0,,0,0,0
+dapagliflozin (many variations),,2,0,,0,0,0
+empagliflozin,(many variations),2,0,,0,0,0
+ertugliflozin (many variations),,2,0,,0,0,0
+glimepiride (many variations),,2,0,,0,0,0
+gliclazide,,2,0,,0,0,0
+glyburide,,2,0,,0,0,0
+rosiglitazone,,2,1,Increased risk of heart disease,0,0,0
+pioglitazone (many variations),,2,1,Increased risk of heart disease,0,0,0

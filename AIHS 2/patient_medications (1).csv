@@ -1,0 +1,12 @@
+Patient,First Recommended Medication,Second Recommended Medication,Reason
+Maria Thompson (Gestational Diabetes),Insulin,No oral antidiabetic agents recommended,"Safety during pregnancy, especially with UTI."
+John Anderson (Diabetes with Pneumonia),Metformin,Thiazolidinediones with caution,"Efficacy with cardiovascular benefits, caution with fluid retention due to pneumonia."
+Emily Chen (Diabetes and CKD),GLP-1 receptor agonists,DPP-4 inhibitors with dose adjustment,"Improves cardiovascular and renal outcomes, safe with dose adjustments for CKD."
+Alex Johnson (Diabetes and Stroke Recovery),Metformin,SGLT2 inhibitors considering patient-specific factors,"Cardiovascular benefits, efficacy in post-stroke patients, considering contraindications."
+Linda Kim (Diabetes and Breast Cancer),Metformin,DPP-4 inhibitors like Sitagliptin,"Foundational for diabetes management, minimal interaction with chemotherapy."
+Robert Hernandez (Diabetes and Parkinson's Disease),Metformin,Glipizide if A1C targets are not met,"First-line therapy, additional control with sulfonylureas if needed."
+Sarah Nguyen (Diabetes and Asthma),Metformin,Dapagliflozin with close monitoring,"Standard treatment, additional cardiovascular benefits and glucose control with SGLT2 inhibitors."
+Kevin Brooks (Diabetes and Bipolar Disorder),Metformin,Sitagliptin,"Neutral effect on mood and energy, crucial for bipolar disorder management."
+Olivia Smith (Diabetes and RA),Metformin,GLP-1 receptor agonists,"Safe for diabetes, anti-inflammatory properties which may benefit RA management."
+Jamal Edwards (Diabetes and HIV),Metformin,SGLT2 inhibitors like Empagliflozin,"Essential for diabetes management, cardiovascular protection beneficial in HIV."
+Isabel Martinez (Diabetes and EDS),Metformin,DPP-4 inhibitors like Sitagliptin,"Efficacy and safety, well-tolerated and low-risk for hypoglycemia, important for EDS management."
