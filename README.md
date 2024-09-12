@@ -37,6 +37,25 @@ To run this project on your personal machine, make sure you have the following i
 ### Step 1: Clone the Repository
 Start by cloning this repository to your local machine using Git:
 ```bash
-git clone https://github.com/username/DiabetesPatientManagementApp.git
-cd DiabetesPatientManagementApp)
 
+git clone https://github.com/username/DiabetesPatientManagementApp.git
+cd DiabetesPatientManagementApp
+```
+### Step 2: Set Up JavaFX
+1. [Download JavaFX from here.](#)
+2. Ensure your `PATH` includes the JavaFX SDK libraries. For example, you can specify them in your IDE settings or use the following VM arguments when running the app:
+
+```bash
+--module-path "path_to_your_javafx_lib" --add-modules javafx.controls,javafx.fxml
+```
+### Step 3: Compile and Run the Application
+To compile the Java files and run the application, use the following commands in the terminal:
+```bash
+javac -d bin -cp "path_to_your_javafx_lib/*" src/*.java
+java -cp bin --module-path "path_to_your_javafx_lib" --add-modules javafx.controls,javafx.fxml
+```
+## Team:
+Aya Dassouki
+Nadeen Hour
+Shuaib Mohammed
+Jasnoor Kaur
