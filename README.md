@@ -55,7 +55,7 @@ javac -d bin -cp "path_to_your_javafx_lib/*" src/*.java
 java -cp bin --module-path "path_to_your_javafx_lib" --add-modules javafx.controls,javafx.fxml
 ```
 ## Team:
-Aya Dassouki
-Nadeen Hour
-Shuaib Mohammed
-Jasnoor Kaur
+- Aya Dassouki
+- Nadeen Houri
+- Shuaib Mohammed
+- Jasnoor Kaur
