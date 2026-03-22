@@ -1,61 +1,33 @@
-# AI-in-Healthcare
-# Diabetes Patient Management Application
+# 🏥 Diabetes Patient Management & Classification System
 
-This project is a comprehensive diabetes management system that helps manage patient data, medication information, and patient classification for Type I and Type II diabetes. It was created as part of a hackathon and demonstrates a JavaFX application with data processing and visualization capabilities.
+### 📌 Project Overview
+Developed during a 48-hour hackathon, this **3rd Place-winning** application is a comprehensive digital health platform designed to streamline patient registration, medication tracking, and classification for Type I and Type II diabetes. 
 
-## Features
-- **Patient Registration Screen**: Allows users to register new patients and store their information.
-- **Results Display**: A feature to view processed data of diabetes medications and patient classification.
-- **Diabetes Medications Data**: Detailed information on medications used for treating Type I/II diabetes, including possible allergies, age, and diet restrictions.
-- **Data Processing Notebooks**: Provides analysis of patient data using Jupyter notebooks.
+The project bridges the gap between **Front-end GUI design (JavaFX)** and **Back-end Data Analysis (Python/Jupyter)** to provide healthcare providers with a unified dashboard for patient care.
 
-## Files and Structure
-- **Java Application**: The core functionality is implemented in Java with the following files:
-  - `App.java` & `App.class`
-  - `PatientRegistrationScreen.java` & `PatientRegistrationScreen.class`
-  - `Results.java` & `Results.class`
-  
-- **Data Files**:
-  - `Medications for Type I_II diabetes - Sheet1.csv`: Medication data for Type I and Type II diabetes.
-  - `patient_classification_processed.csv`: Processed classification data for patients.
-  - `patient_medications.csv`: Data on patient medications.
-  
-- **Analysis**:
-  - `diabetes.ipynb`: A Jupyter Notebook for analyzing diabetes data and performing further analysis.
+### 🏆 Achievements
+* **3rd Place Winner** among [Number] competing teams.
+* Successfully integrated a Java-based registration system with a Python-based diagnostic analysis pipeline.
 
-- **Media**:
-  - `WhatsApp Video 2024-03-22 at 8.58.31 PM.mp4`: A video explaining the application workflow and features.
+### 🛠️ Tech Stack
+- **Frontend:** JavaFX (GUI Development)
+- **Backend:** Java 17+
+- **Data Analysis:** Python, Jupyter Notebooks, Pandas
+- **Data Management:** CSV-based flat-file database for medication and patient logs
 
-## Requirements
-To run this project on your personal machine, make sure you have the following installed:
-- **Java 17+**
-- **JavaFX SDK**: Make sure to configure the JavaFX SDK for GUI-related components.
-- **Jupyter Notebook** (for the analysis in `diabetes.ipynb`)
+### 🚀 Key Features
+* **Automated Classification:** Utilizes processed patient data to categorize individuals into Type I or Type II diabetes protocols.
+* **Medication Guardrails:** A built-in reference system for diabetes medications, including critical checks for age restrictions, diet requirements, and potential allergies.
+* **Unified Provider Dashboard:** A JavaFX-powered interface for real-time patient registration and results visualization.
+* **Analytical Insights:** Jupyter Notebooks providing deep-dive analysis into patient trends and medication efficacy.
 
-## Setup Instructions
+### 📂 Architecture & Workflow
+1. **Registration:** Secure intake of patient metrics via `PatientRegistrationScreen.java`.
+2. **Analysis:** Background processing of patient data using Python scripts to identify classification markers.
+3. **Visualization:** Interactive display of medication matches and classification results via `Results.java`.
 
-### Step 1: Clone the Repository
-Start by cloning this repository to your local machine using Git:
-```bash
-
-git clone https://github.com/username/DiabetesPatientManagementApp.git
-cd DiabetesPatientManagementApp
-```
-### Step 2: Set Up JavaFX
-1. [Download JavaFX from here.](#)
-2. Ensure your `PATH` includes the JavaFX SDK libraries. For example, you can specify them in your IDE settings or use the following VM arguments when running the app:
-
-```bash
---module-path "path_to_your_javafx_lib" --add-modules javafx.controls,javafx.fxml
-```
-### Step 3: Compile and Run the Application
-To compile the Java files and run the application, use the following commands in the terminal:
-```bash
-javac -d bin -cp "path_to_your_javafx_lib/*" src/*.java
-java -cp bin --module-path "path_to_your_javafx_lib" --add-modules javafx.controls,javafx.fxml
-```
-## Team:
-- Aya Dassouki
-- Nadeen Houri
-- Shuaib Mohammed
-- Jasnoor Kaur
+### 👥 The Team
+* Aya El-Dassouki
+* Nadeen Houri
+* Shuaib Mohammed
+* Jasnoor Kaur
