@@ -6,7 +6,7 @@ Developed during a 48-hour hackathon, this **3rd Place-winning** application is 
 The project bridges the gap between **Front-end GUI design (JavaFX)** and **Back-end Data Analysis (Python/Jupyter)** to provide healthcare providers with a unified dashboard for patient care.
 
 ### 🏆 Achievements
-* **3rd Place Winner** among [Number] competing teams.
+* **3rd Place Winner** among 30 competing teams.
 * Successfully integrated a Java-based registration system with a Python-based diagnostic analysis pipeline.
 
 ### 🛠️ Tech Stack
